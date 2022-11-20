@@ -29,7 +29,11 @@ public class Database {
             //CREATING DATA
             statement.execute(insertScriptSQL);
 
-            
+            //UPDATE DATA
+
+            //DELETE DATA
+
+            //READ DATA
             
         } catch (SQLException sqlException) {
             // TODO: handle exception
